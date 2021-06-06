@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90.6" height="72.749" viewBox="0 0 90.6 72.749">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #2e2d2c;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #114bad;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        stroke-width: 3.2px;
+      }
+    </style>
+  </defs>
+  <g id="グループ_10012" data-name="グループ 10012" transform="translate(-505 -2872)">
+    <g id="グループ_9736" data-name="グループ 9736" transform="translate(531.463 2896.098)">
+      <path id="パス_19835" data-name="パス 19835" class="cls-1" d="M676.679,201.884a18.838,18.838,0,1,1-18.839-18.839A18.839,18.839,0,0,1,676.679,201.884Z" transform="translate(-639.004 -183.045)"/>
+    </g>
+    <g id="グループ_10011" data-name="グループ 10011">
+      <g id="グループ_9737" data-name="グループ 9737" transform="translate(543.282 2896.098)">
+        <path id="パス_19836" data-name="パス 19836" class="cls-2" d="M661.357,201.884c0,10.4-3.141,18.839-7.017,18.839s-7.017-8.435-7.017-18.839,3.143-18.839,7.017-18.839S661.357,191.48,661.357,201.884Z" transform="translate(-647.323 -183.045)"/>
+      </g>
+      <g id="グループ_9738" data-name="グループ 9738" transform="translate(532.592 2908.657)">
+        <line id="線_549" data-name="線 549" class="cls-1" x2="35.416" transform="translate(0 12.559)"/>
+        <line id="線_550" data-name="線 550" class="cls-1" x2="35.416"/>
+      </g>
+      <g id="グループ_9740" data-name="グループ 9740" transform="translate(506 2873)">
+        <rect id="長方形_1440" data-name="長方形 1440" class="cls-3" width="88.6" height="70.749" rx="4.535"/>
+        <line id="線_551" data-name="線 551" class="cls-3" x2="88.6" transform="translate(0 13.79)"/>
+      </g>
+      <line id="線_552" data-name="線 552" class="cls-4" transform="translate(519.661 2880.104)"/>
+      <line id="線_553" data-name="線 553" class="cls-4" transform="translate(531.145 2880.104)"/>
+    </g>
+  </g>
+</svg>

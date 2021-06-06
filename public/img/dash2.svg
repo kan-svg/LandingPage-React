@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="288" height="288" viewBox="0 0 288 288">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #013076;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        filter: url(#楕円形_64);
+      }
+    </style>
+    <filter id="楕円形_64" x="0" y="0" width="288" height="288" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_12261" data-name="グループ 12261" transform="translate(-1226 -4364)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 1226, 4364)">
+      <circle id="楕円形_64-2" data-name="楕円形 64" class="cls-1" cx="135" cy="135" r="135" transform="translate(9 6)"/>
+    </g>
+    <g id="グループ_12259" data-name="グループ 12259" transform="translate(1292 4403.979)">
+      <path id="パス_25545" data-name="パス 25545" class="cls-2" d="M89.2,72.87A16.346,16.346,0,1,0,72.86,56.525,16.347,16.347,0,0,0,89.2,72.87Z" transform="translate(-50.781 -4.989)"/>
+      <path id="パス_25546" data-name="パス 25546" class="cls-2" d="M152.676,151.52l-67.9-82.751L95.64,56.879l21.883-6.45a8.8,8.8,0,0,0-3.586-17.221L92.893,37.733a22.271,22.271,0,0,0-9.885,4.925L30.9,87.707,7.129,91.915a8.8,8.8,0,0,0,3.337,17.272l22.18-1.854a22.319,22.319,0,0,0,11.768-4.747l12.359-9.068,13.715,14.913-14.774,11.79a12.3,12.3,0,0,0-.629,18.389l33.309,26.608a9.867,9.867,0,0,0,14.052-13.856L76.46,129.494,96.3,119l41.579,45.585a9.867,9.867,0,1,0,14.793-13.062Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70.853" height="70.853" viewBox="0 0 70.853 70.853">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #2e2d2c;
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #114bad;
+      }
+    </style>
+  </defs>
+  <g id="グループ_9635" data-name="グループ 9635" transform="translate(-1189.795 -508.492)">
+    <path id="パス_19644" data-name="パス 19644" class="cls-1" d="M1200.79,541.563l16.048-12.893,15.289,7.62,19.886-19.9" transform="translate(2.144 1.48)"/>
+    <path id="パス_19645" data-name="パス 19645" class="cls-2" d="M1206.372,537.976a4.746,4.746,0,1,1-4.744-4.862A4.8,4.8,0,0,1,1206.372,537.976Z" transform="translate(1.306 5.067)"/>
+    <path id="パス_19646" data-name="パス 19646" class="cls-2" d="M1219.273,527.36a4.745,4.745,0,1,1-4.744-4.862A4.8,4.8,0,0,1,1219.273,527.36Z" transform="translate(4.073 2.79)"/>
+    <path id="パス_19647" data-name="パス 19647" class="cls-2" d="M1232.174,533.635a4.745,4.745,0,1,1-4.744-4.863A4.8,4.8,0,0,1,1232.174,533.635Z" transform="translate(6.84 4.135)"/>
+    <rect id="長方形_1433" data-name="長方形 1433" class="cls-3" width="8.432" height="15.867" transform="translate(1198.718 555.192)"/>
+    <rect id="長方形_1434" data-name="長方形 1434" class="cls-3" width="8.432" height="21.14" transform="translate(1230.054 549.919)"/>
+    <rect id="長方形_1435" data-name="長方形 1435" class="cls-3" width="8.432" height="28.76" transform="translate(1214.386 542.299)"/>
+    <rect id="長方形_1436" data-name="長方形 1436" class="cls-3" width="8.432" height="36.819" transform="translate(1245.723 534.24)"/>
+    <path id="パス_19648" data-name="パス 19648" class="cls-1" d="M1190.8,509.492v68.853h68.853" transform="translate(0)"/>
+    <path id="パス_19649" data-name="パス 19649" class="cls-1" d="M1236.022,516.256h8.432v8.432" transform="translate(9.701 1.451)"/>
+  </g>
+</svg>

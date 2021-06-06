@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.796" height="69.538" viewBox="0 0 40.796 69.538">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #114bad;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #2e2d2c;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke-width: 2.8px;
+      }
+    </style>
+  </defs>
+  <g id="グループ_10014" data-name="グループ 10014" transform="translate(-1348 -2873)">
+    <path id="長方形_1475" data-name="長方形 1475" class="cls-1" d="M0,0H39a0,0,0,0,1,0,0V5a5,5,0,0,1-5,5H5A5,5,0,0,1,0,5V0A0,0,0,0,1,0,0Z" transform="translate(1349 2931)"/>
+    <g id="グループ_10013" data-name="グループ 10013">
+      <path id="パス_20015" data-name="パス 20015" class="cls-1" d="M3.954,0H34.795a3.954,3.954,0,0,1,3.954,3.954V10.28H0V3.954A3.954,3.954,0,0,1,3.954,0Z" transform="translate(1349 2874)"/>
+      <g id="グループ_9848" data-name="グループ 9848" transform="translate(1349 2874)">
+        <g id="グループ_9849" data-name="グループ 9849">
+          <g id="グループ_9533" data-name="グループ 9533">
+            <g id="グループ_9532" data-name="グループ 9532">
+              <rect id="長方形_1427" data-name="長方形 1427" class="cls-2" width="38.796" height="67.538" rx="5.669"/>
+              <line id="線_442" data-name="線 442" class="cls-2" x1="38.796" transform="translate(0 57.363)"/>
+              <line id="線_443" data-name="線 443" class="cls-2" x2="38.796" transform="translate(0 10.175)"/>
+              <line id="線_444" data-name="線 444" class="cls-2" x2="8.772" transform="translate(15.014 62.45)"/>
+            </g>
+          </g>
+          <g id="グループ_9534" data-name="グループ 9534" transform="translate(19.398 5.075)">
+            <line id="線_445" data-name="線 445" class="cls-3"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

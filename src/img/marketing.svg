@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="74.304" height="75.078" viewBox="0 0 74.304 75.078">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #114bad;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #2e2d2c;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="グループ_9429" data-name="グループ 9429" transform="translate(1 1)">
+    <g id="グループ_9427" data-name="グループ 9427">
+      <g id="グループ_9426" data-name="グループ 9426">
+        <path id="パス_19161" data-name="パス 19161" class="cls-1" d="M555.788,79.308l15.947,16.343a6.3,6.3,0,0,1,0,8.764,5.942,5.942,0,0,1-8.555,0L547.443,88.284" transform="translate(-501.208 -33.155)"/>
+        <path id="パス_19162" data-name="パス 19162" class="cls-2" d="M568.24,71.407c0,16.7-13.207,30.231-29.5,30.231s-29.5-13.534-29.5-30.231,13.207-30.231,29.5-30.231S568.24,54.71,568.24,71.407Z" transform="translate(-509.243 -41.176)"/>
+        <g id="グループ_9425" data-name="グループ 9425" transform="translate(6.723 8.727)">
+          <path id="パス_19163" data-name="パス 19163" class="cls-2" d="M514.8,69.929a23.8,23.8,0,0,1,1.792-9.1,23.456,23.456,0,0,1,4.89-7.432,22.829,22.829,0,0,1,7.251-5.011" transform="translate(-514.798 -48.386)"/>
+        </g>
+      </g>
+    </g>
+    <g id="グループ_9428" data-name="グループ 9428" transform="translate(14.801 17.277)">
+      <line id="線_368" data-name="線 368" class="cls-3" y2="6.081" transform="translate(0 21.455)"/>
+      <line id="線_369" data-name="線 369" class="cls-3" y2="11.445" transform="translate(7.349 16.091)"/>
+      <line id="線_370" data-name="線 370" class="cls-3" y2="20.528" transform="translate(14.697 7.008)"/>
+      <line id="線_371" data-name="線 371" class="cls-3" y2="17.366" transform="translate(22.046 10.17)"/>
+      <line id="線_372" data-name="線 372" class="cls-3" y2="27.536" transform="translate(29.395)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="518" height="82" viewBox="0 0 518 82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #114bad;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 27px;
+        font-family: YuGothicUI-Bold, Yu Gothic UI;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="グループ_12249" data-name="グループ 12249" transform="translate(-716 -6203)">
+    <g id="グループ_12255" data-name="グループ 12255">
+      <g id="グループ_12246" data-name="グループ 12246" transform="translate(712 6203)">
+        <g id="グループ_12243" data-name="グループ 12243" transform="translate(247.327 63)">
+          <path id="多角形_9" data-name="多角形 9" class="cls-1" d="M16.5,0,33,19H0Z" transform="translate(32.674 19) rotate(180)"/>
+        </g>
+      </g>
+      <g id="グループ_12254" data-name="グループ 12254">
+        <rect id="長方形_1643" data-name="長方形 1643" class="cls-1" width="518" height="68" rx="34" transform="translate(716 6203)"/>
+        <g id="グループ_12252" data-name="グループ 12252" transform="translate(3.5)">
+          <g id="グループ_12253" data-name="グループ 12253">
+            <text id="_分で完了_簡単お問い合わせ_" data-name="１分で完了！簡単お問い合わせ！" class="cls-2" transform="translate(974 6248)"><tspan x="-192.144" y="0">１分で完了！簡単お問い合わせ！</tspan></text>
+            <line id="線_810" data-name="線 810" class="cls-3" x2="13" y2="30" transform="translate(759.5 6222.5)"/>
+            <line id="線_811" data-name="線 811" class="cls-3" x1="13" y2="30" transform="translate(1171.32 6222.5)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

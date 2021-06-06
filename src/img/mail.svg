@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="30" viewBox="0 0 40 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="iconmonstr-email-4_1_" data-name="iconmonstr-email-4 (1)" class="cls-1" d="M0,3V33H40V3ZM35.863,6.333,20,19.188,4.137,6.333H35.863ZM3.333,29.667V9.972L20,23.478,36.667,9.972v19.7Z" transform="translate(0 -3)"/>
+</svg>
